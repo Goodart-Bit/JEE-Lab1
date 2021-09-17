@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-sep-2021, 11:30:15
+    Author     : juand
+*/
+html{
+    height: 100vh;
+}
+body{
+    background: linear-gradient(35deg, #556269, #2EE59D, #22f264);
+    color: white;
+    height: 90%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    display: block;
+    width: fit-content;
+    background-color: rgba(30, 33, 32, 0.68);
+    padding: 10px;
+    margin: 20px 20px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+span{
+    color: #22f264;
+    text-decoration: underline #22f264;
+    font-size: 22px;
+}
+
+footer{
+    display: block;
+    position: absolute;
+    font-size: 25px;
+    margin: auto 20px 20px;
+    bottom: 0;
+}
